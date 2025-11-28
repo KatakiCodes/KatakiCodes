@@ -1,5 +1,13 @@
 ##  👋 Hi there, I am Nelson Dos Santos
 
+<p>
+  <a href="https://www.linkedin.com/in/nelsondossantos-5b5ba8257/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:katakicode001@gmail.com">
+    <img src="https://img.shields.io/badge/-katakicode001@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 - 🔭 I’m currently working on my dev skills
 - 🌱 Learning about anything that makes me conclude my current dev task
