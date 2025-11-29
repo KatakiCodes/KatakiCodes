@@ -20,3 +20,25 @@
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,postman,visualstudio,vscode)](https://skillicons.dev)
+
+### 📈 GitHub Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adyllsxn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyllsxn&layout=compact&langs_count=7&theme=github_dark&hide=html,css,scss,less,stylus,markdown,jupyter%20notebook,shell,dockerfile,procfile,cmake,makefile,batchfile"/>
+</div>
+
+---
+
+### 📊 Development Analytics
+
+<div align="center">
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=katakicodes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katakicodes&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  
+</div>
+
